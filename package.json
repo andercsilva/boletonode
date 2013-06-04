@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Anderson Loyola",
+    "email": "email@andersonloyola.com.br",
+    "url": "https://andersonloyola.com.br"
+  },
+  "name": "boletonode",
+  "description": "Módulo para geração de boleto bancário baseado no boletophp.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/andersonloyola/boletonode",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andersonloyola/boletonode.git"
+  },
+  "dependencies": {
+    "combyne" : "*",
+    "phpjs" : "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readme": "",
+  "readmeFilename": "README.md"
+}

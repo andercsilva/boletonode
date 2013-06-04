@@ -8,6 +8,10 @@ Atualmente somente CEF SICOB em funcionamento
 
 Estamos trabalhando para adicionar mais boletos, quem tiver interesse email@andersonloyola.com.br
 
+# Install
+``` sh
+npm install boletonode
+```
 
 # Exemplo
 
