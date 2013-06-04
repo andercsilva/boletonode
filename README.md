@@ -1,9 +1,13 @@
-# Módulo BoletoNode
+# Módulo BoletoNode V0.1
 
 BoletoNode baseado no sistema BoletoPHP
+
 Aqueles que tiverem interessados em cooperar por favor entrem em contato
 
-Atualmente somente a CEF com problema no código de barras o restante está normal
+Atualmente somente CEF SICOB em funcionamento
+
+Estamos trabalhando para adicionar mais boletos, quem tiver interesse email@andersonloyola.com.br
+
 
 # Exemplo
 
